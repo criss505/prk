@@ -1,7 +1,6 @@
 package Account;
 
 public class Vault {
-//    when a vault is created, the amount is substracted from the user's balance
     public String nameTag;
     public String name;
     public String currency;
