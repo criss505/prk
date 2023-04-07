@@ -1,8 +1,6 @@
 package Account;
 
 public class Loan {
-    // when a loan is created, the amount is added to the user's balance but they have monthly payment
-    // to pay back the loan
     private double amount;
     private double monthlyPayment;
     private double interestRate;
